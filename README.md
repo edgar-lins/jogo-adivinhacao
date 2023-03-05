@@ -8,6 +8,8 @@ Jogo desenvolvido no curso Explorer da rocketseat
 
 ![preview](./.github/preview.png)
 
+[🔗 Clique aqui para acessar](https://edgar-lins.github.io/jogo-adivinhacao/)
+
 - JavaScript
 - HTML
 - CSS
